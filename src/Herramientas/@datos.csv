@@ -1,0 +1,252 @@
+A;0.0;A;Plaza de Mayo;;
+A;0.1;A;Perú;D;Catedral
+A;0.1;A;Perú;E;Bolivar
+A;0.3;A;Piedras;;
+A;0.7;A;Lima;C;Avenida de Mayo
+A;1.0;A;Sáenz Peña;;
+A;1.4;A;Congreso;;
+A;2.0;V;Pasco;;
+A;2.5;I;Alberti;;
+A;2.7;A;Plaza Miserere;FCDFS;Once
+A;2.7;A;Plaza Miserere;H;Once
+A;3.2;A;Loria;;
+A;4.1;A;Castro Barros;;
+A;4.7;A;Río de Janeiro;;
+A;5.5;A;Acoyte;;
+A;6.2;A;Primera Junta ;FCDFS;Caballito
+A;6.7;;Taller Polvorín;;
+A;7.5;A;Puán;;
+A;8.2;A;Carabobo;;
+A;9;A;San José de Flores ;FCDFS;Flores
+A;9.7;A;San Pedrito;;
+B;0;A;Leandro N. Alem;;
+B;0.4;A;Florida;;
+B;1;A;Carlos Pellegrini;D;9 de Julio
+B;1;A;Carlos Pellegrini;C;Diagonal Norte
+B;1.6;A;Uruguay;;
+B;2;A;Callao;;
+B;2.7;A;Pasteur;;
+B;3.2;A;Pueyrredón;H;Corrientes
+B;3.8;A;Carlos Gardel;;
+B;4.7;A;Medrano;;
+B;5.6;A;Ángel Gallardo;;
+B;6.5;A;Malabia;;
+B;7.6;A;Dorrego ;FCGSM;Chacarita
+B;;;Taller Rancagua;;
+B;8.3;A;Federico Lacroze ;FCGU;Federico Lacroze 
+B;9.5;A;Tronador - Villa Ortúzar;;
+B;10.2;A;De los Incas - Parque Chas;;
+B;11.1;A;Echeverría;;
+B;11.8;A;Juan Manuel de Rosas;FCGBM - R.JLSuarez;Urquiza
+C;0;A;Retiro;FCGSM;Retiro
+C;0;A;Retiro;FCGBM - R.Tigre;Retiro
+C;0;A;Retiro;FCGBM - R.Mitre;Retiro
+C;0;A;Retiro;FCGBM - R.JLSuarez;Retiro
+C;0.4;A;General San Martín;;
+C;0.5;;Cochera-Taller San Martín;;
+C;1.2;A;Lavalle;;
+C;1.7;A;Diagonal Norte;D;9 de Julio
+C;1.7;A;Diagonal Norte;B;Carlos Pellegrini
+C;1.8;;Túnel de servicio;;
+C;2.2;A;Avenida de Mayo;A;Lima
+C;2.6;A;Moreno;;
+C;3.4;A;Independencia;E;Independencia
+C;3.7;A;San Juan;;
+C;;;Cocheras-Taller Constitución;;
+C;;;Cocheras-Taller San José;;
+C;4.3;A;Constitución ;;
+D;0;A;Catedral;E;Bolivar
+D;0;A;Catedral;A;Perú
+D;0.7;A;9 de Julio;C;Diagonal Norte
+D;0.7;A;9 de Julio;B;Carlos Pellegrini
+D;0.9;;Túnel de servicio;;
+D;1.5;A;Tribunales;;
+D;2;A;Callao;;
+D;2.4;A;Facultad de Medicina;;
+D;3.2;A;Pueyrredón;H;Santa Fe
+D;3.8;A;Agüero;;
+D;4.3;A;Bulnes;;
+D;4.8;A;Scalabrini Ortiz;;
+D;5;;Taller-Cochera Canning;;
+D;5.5;A;Plaza Italia;;
+D;6;A;Palermo;FCGSM;Palermo
+D;7;A;Ministro Carranza;FCGBM - R.Mitre;Carranza
+D;8;A;Olleros;;
+D;8.8;A;José Hernández;;
+D;9.4;A;Juramento;;
+D;10.3;A;Congreso de Tucumán;;
+E;0;;Retiro;FCGSM;Retiro
+E;0;;Retiro;FCGBM - R.Tigre;Retiro
+E;0;;Retiro;FCGBM - R.Mitre;Retiro
+E;0;;Retiro;FCGBM - R.JLSuarez;Retiro
+E;0.7;;Catalinas;;
+E;1.5;;Correo Central;;
+E;2.3;A;Bolívar;A;Perú
+E;2.3;A;Bolívar;D;Catedral
+E;2.9;A;Belgrano;;
+E;3.6;A;Independencia;C;Independencia
+E;4.1;;Constitución;;
+E;4.3;A;San José;;
+E;4.8;A;Entre Ríos;;
+E;5.4;A;Pichincha;;
+E;5.9;A;Jujuy;H;Humberto I
+E;6.5;A;General Urquiza;;
+E;6.8;;Ap. Boedo;;
+E;7;A;Boedo;;
+E;8.1;A;Avenida La Plata;;
+E;8.8;A;José María Moreno;;
+E;9.6;A;Emilio Mitre;;
+E;10.6;A;Medalla Milagrosa;;
+E;11.1;A;Varela;;
+E;12;A;Pza. de los Virreye;Premetro;Intendente Saguier
+H;0;A;Facultad de Derecho;;
+H;0.6;A;Las Heras;;
+H;1.6;A;Santa Fe;D;Pueyrredón
+H;2.1;A;Córdoba;;
+H;2.8;A;Corrientes;B;Pueyrredón
+H;3.5;A;Once;FCDFS;Once
+H;3.5;A;Once;A;Plaza Miserere
+H;4;A;Venezuela;;
+H;4.9;A;Humberto I;E;Jujuy
+H;5.6;A;Inclán;;
+H;6.4;A;Caseros;;
+H;6.5;;Taller Colonia;;
+H;7;A;Parque Patricios;;
+H;7.3;;Taller y cochera Pque. Patricios;;
+H;7.8;A;Hospitales;;
+Premetro;0;A;Intendente Saguier;E;Pza. de los Virreye
+Premetro;0.7;A;Balbastro;;
+Premetro;1.5;A;Mariano Acosta;;
+Premetro;1.8;A;Somellera;;
+Premetro;;;Taller Mariano Acosta;;
+Premetro;2.3;A;Ana María Janer;;
+Premetro;2.5;A;Nuestra Señora de Fátima;;
+Premetro;2.8;A;Fernández de la Cruz;;
+Premetro;3.2;A;Presidente Illia;;
+Premetro;4;A;Parque de la Ciudad;;
+Premetro;4.5;A;Cecilia Grierson;;
+Premetro;4.8;A;Escalada;;
+Premetro;5.4;A;Pola;;
+Premetro;5.7;A;Larrazábal;;
+Premetro;5.7;A;Ana Díaz;;
+Premetro;6.2;A;Nicolás Descalzi;;
+Premetro;6.1;A;Centro Cívico;;
+Premetro;6.7;A;Gabino Ezeiza;;
+Premetro;7;A;General Savio;;
+FCDFS;0;A;Once;A;Plaza Miserere
+FCDFS;0;A;Once;H;Once
+FCDFS;1;A;Caballito;A;Primera Junta
+FCDFS;2;A;Flores;A;San José de Flores 
+FCDFS;3;A;Floresta;;
+FCDFS;4;A;Villa Luro;;
+FCDFS;5;A;Liniers;;
+FCDFS;6;A;Ciudadela;;
+FCDFS;7;A;Ramos Mejia;;
+FCDFS;8;A;Haedo;;
+FCDFS;9;A;Morón;;
+FCDFS;10;A;Castelar;;
+FCDFS;11;A;Ituzaingó;;
+FCDFS;12;A;S. A. Padua;;
+FCDFS;13;A;Merlo;;
+FCDFS;14;A;Paso del Rey;;
+FCDFS;15;A;Moreno;;
+FCGBM - R.JLSuarez;0;A;Retiro;C;Retiro
+FCGBM - R.JLSuarez;0;A;Retiro;FCGBM - R.Mitre;Retiro
+FCGBM - R.JLSuarez;0;A;Retiro;FCGBM - R.Tigre;Retiro
+FCGBM - R.JLSuarez;0;A;Retiro;FCGSM;Retiro
+FCGBM - R.JLSuarez;1;A;3 de Febrero;;
+FCGBM - R.JLSuarez;2;A;Carranza;;
+FCGBM - R.JLSuarez;3;A;Colegiales;;
+FCGBM - R.JLSuarez;4;A;Belgrano R;;
+FCGBM - R.JLSuarez;5;A;Drago;;
+FCGBM - R.JLSuarez;6;A;Urquiza;B;Juan Manuel de Rosas
+FCGBM - R.JLSuarez;7;A;Pueyrredón;;
+FCGBM - R.JLSuarez;8;A;Miguelete;;
+FCGBM - R.JLSuarez;9;A;San Martín;;
+FCGBM - R.JLSuarez;10;A;San Andrés;;
+FCGBM - R.JLSuarez;11;A;Malaver;;
+FCGBM - R.JLSuarez;12;A;Villa Ballester;;
+FCGBM - R.JLSuarez;13;A;Chilavert;;
+FCGBM - R.JLSuarez;14;A;José León Suarez;;
+FCGBM - R.Mitre;0;A;Retiro;C;Retiro
+FCGBM - R.Mitre;0;A;Retiro;FCGBM - R.JLSuarez;Retiro
+FCGBM - R.Mitre;0;A;Retiro;FCGBM - R.Tigre;Retiro
+FCGBM - R.Mitre;0;A;Retiro;FCGSM;Retiro
+FCGBM - R.Mitre;1;A;3 de Febrero;;
+FCGBM - R.Mitre;2;A;Carranza;;
+FCGBM - R.Mitre;3;A;Colegiales;;
+FCGBM - R.Mitre;4;A;Belgrano R;;
+FCGBM - R.Mitre;5;A;Coghlan;;
+FCGBM - R.Mitre;6;A;Saavedra;;
+FCGBM - R.Mitre;7;A;J.B. Justo;;
+FCGBM - R.Mitre;8;A;Florida;;
+FCGBM - R.Mitre;9;A;Cetránngolo;;
+FCGBM - R.Mitre;10;A;Mitre;;
+FCGBM - R.Tigre;0;A;Retiro;C;Retiro
+FCGBM - R.Tigre;0;A;Retiro;FCGBM - R.JLSuarez;Retiro
+FCGBM - R.Tigre;0;A;Retiro;FCGBM - R.Tigre;Retiro
+FCGBM - R.Tigre;0;A;Retiro;FCGSM;Retiro
+FCGBM - R.Tigre;1;A;Lisandro de la Torre;;
+FCGBM - R.Tigre;2;A;Belgrano C;;
+FCGBM - R.Tigre;3;A;Núñez;;
+FCGBM - R.Tigre;4;A;Rivadavia;;
+FCGBM - R.Tigre;5;A;Vicente López;;
+FCGBM - R.Tigre;6;A;Olivos;;
+FCGBM - R.Tigre;7;A;La Lucila;;
+FCGBM - R.Tigre;8;A;Martínez;;
+FCGBM - R.Tigre;9;A;Acassuso;;
+FCGBM - R.Tigre;10;A;San Isidro;;
+FCGBM - R.Tigre;11;A;Beccar;;
+FCGBM - R.Tigre;12;A;Victoria;;
+FCGBM - R.Tigre;13;A;Virreyes;;
+FCGBM - R.Tigre;14;A;San Fernando;;
+FCGBM - R.Tigre;15;A;Carupá;;
+FCGBM - R.Tigre;16;A;Tigre;;
+FCGSM;0;A;Retiro;C;Retiro
+FCGSM;0;A;Retiro;FCGBM - R.Tigre;Retiro
+FCGSM;0;A;Retiro;FCGBM - R.Mitre;Retiro
+FCGSM;0;A;Retiro;FCGBM - R.JLSuarez;Retiro
+FCGSM;1;A;Palermo;D;Palermo
+FCGSM;2;A;Chacarita;B;Dorrego
+FCGSM;3;A;La Paternal;;
+FCGSM;4;A;Villa del Parque;;
+FCGSM;5;A;Devoto;;
+FCGSM;6;A;Sáenz Peña;;
+FCGSM;7;A;Santos Lugares;;
+FCGSM;8;A;Caseros;;
+FCGSM;9;A;Palomar;;
+FCGSM;10;A;Hurlingham;;
+FCGSM;11;A;William Morris;;
+FCGSM;12;A;Bella Vista;;
+FCGSM;13;A;Muñiz;;
+FCGSM;14;A;San Miguel;;
+FCGSM;15;A;José C. Paz;;
+FCGSM;16;A;Sol y Verde;;
+FCGSM;17;A;Derqui;;
+FCGSM;18;A;Villa Astolfi;;
+FCGSM;19;A;Pilar;;
+FCGSM;20;A;Manzanares;;
+FCGSM;21;A;Dr. Domingo Cabred;;
+FCGU;0;A;Federico Lacroze ;B;Federico Lacroze 
+FCGU;1;A;Artigas;;
+FCGU;2;A;Arata;;
+FCGU;3;A;Francisco Beiró;;
+FCGU;4;A;El Libertador;;
+FCGU;5;A;Devoto;;
+FCGU;6;A;Lynch;;
+FCGU;7;A;F. Moreno;;
+FCGU;8;A;Lourdes;;
+FCGU;9;A;Tropezón;;
+FCGU;10;A;J.M. Bosch;;
+FCGU;11;A;Martín Coronado;;
+FCGU;12;A;Pablo Podestá;;
+FCGU;13;A;Jorge Newbery;;
+FCGU;14;A;Rubén Darío;;
+FCGU;15;A;Ejé. de los Andes;;
+FCGU;16;A;Lasalle;;
+FCGU;17;A;Sgto. Barrufaldi;;
+FCGU;18;A;Capitán Lozano;;
+FCGU;19;A;Teniente Agneta;;
+FCGU;20;A;Campo de Mayo;;
+FCGU;21;A;Sargento Cabral;;
+FCGU;22;A;General Lemos;;
